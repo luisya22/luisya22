@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisya22&label=Profile%20views&color=0e75b6&style=flat" alt="luisya22" /> </p>
 
-- 🔭 I’m currently working on [video-sharing-go](https://github.com/luisya22/video-sharing-go)
+- 🔭 I’m currently working on [galactic-exchange](https://github.com/luisya22/galactic-exchange)
 
 - 🌱 I’m currently learning **Go, Rust**
 
