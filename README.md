@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://luismatos.hashnode.dev)
 
-- 💬 Ask me about **Java, Javascript**
+- 💬 Ask me about **Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
