@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Go, Rust**
 
-- 📝 I regularly write articles on [https://programmingbytes.io/](https://programmingbytes.io/)
+- 📝 I regularly write articles on [Hashnode](https://luismatos.hashnode.dev)
 
 - 💬 Ask me about **Java, Javascript**
 
