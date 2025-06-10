@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisya22&label=Profile%20views&color=0e75b6&style=flat" alt="luisya22" /> </p>
 
-- 🔭 I’m currently working on [seedaizer](https://github.com/luisya22/seedaizer)
+- 🔭 I’m currently working on [Cosmic Barons](https://cosmicbarons.com)
 
-- 🌱 I’m currently learning **Go, Rust**
+- 🌱 I’m currently learning **Go, AWS**
 
 - 📝 I regularly write articles on [Hashnode](https://luismatos.hashnode.dev)
 
